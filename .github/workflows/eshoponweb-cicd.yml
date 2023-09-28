@@ -9,7 +9,7 @@ env:
   LOCATION: westus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: d8205b69-47e5-45b1-8685-47f0507aefbb
-  WEBAPP-NAME: az400-webapp-THALESSUZUKI
+  WEBAPP-NAME: az400-webapp-thales
 
 
 jobs:
